@@ -1,0 +1,197 @@
+[
+  {
+    "id": "1",
+    "title": "Modern Downtown Loft with City Views",
+    "price": 750000,
+    "propertyType": "Condo",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "squareFeet": 1200,
+    "address": {
+      "street": "123 Main Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zipCode": "94102",
+      "full": "123 Main Street, San Francisco, CA 94102"
+    },
+    "coordinates": {
+      "lat": 37.7749,
+      "lng": -122.4194
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&q=80",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&q=80"
+    ],
+    "description": "Experience urban living at its finest in this stunning modern loft featuring floor-to-ceiling windows, exposed brick walls, and breathtaking city skyline views. The open-concept design seamlessly blends contemporary style with industrial charm, creating a sophisticated living space perfect for professionals.",
+    "amenities": [
+      "City Views",
+      "Exposed Brick",
+      "Floor-to-Ceiling Windows",
+      "Open Concept",
+      "Modern Kitchen",
+      "In-Unit Laundry",
+      "Gym Access",
+      "Rooftop Deck"
+    ],
+    "yearBuilt": 2018,
+    "listingDate": "2024-01-15T08:00:00Z"
+  },
+  {
+    "id": "2",
+    "title": "Charming Victorian Family Home",
+    "price": 1250000,
+    "propertyType": "House",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "squareFeet": 2800,
+    "address": {
+      "street": "456 Oak Avenue",
+      "city": "Portland",
+      "state": "OR",
+      "zipCode": "97205",
+      "full": "456 Oak Avenue, Portland, OR 97205"
+    },
+    "coordinates": {
+      "lat": 45.5152,
+      "lng": -122.6784
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1588880331179-bc9b93a8cb5e?w=800&q=80",
+      "https://images.unsplash.com/photo-1513584684374-8bab748fbf90?w=800&q=80",
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?w=800&q=80"
+    ],
+    "description": "Step into timeless elegance with this beautifully restored Victorian home. Original hardwood floors, ornate moldings, and period details have been carefully preserved while modern amenities ensure comfortable family living. The spacious layout includes formal dining, cozy reading nooks, and a chef's kitchen.",
+    "amenities": [
+      "Original Hardwood Floors",
+      "Period Details",
+      "Chef's Kitchen",
+      "Formal Dining Room",
+      "Private Garden",
+      "Fireplace",
+      "Walk-in Closets",
+      "Two-car Garage"
+    ],
+    "yearBuilt": 1895,
+    "listingDate": "2024-01-12T10:30:00Z"
+  },
+  {
+    "id": "3",
+    "title": "Luxury Waterfront Penthouse",
+    "price": 2100000,
+    "propertyType": "Condo",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "squareFeet": 2200,
+    "address": {
+      "street": "789 Harbor Drive",
+      "city": "Miami",
+      "state": "FL",
+      "zipCode": "33131",
+      "full": "789 Harbor Drive, Miami, FL 33131"
+    },
+    "coordinates": {
+      "lat": 25.7617,
+      "lng": -80.1918
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800&q=80",
+      "https://images.unsplash.com/photo-1505142468610-359e7d316be0?w=800&q=80",
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=800&q=80",
+      "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=800&q=80"
+    ],
+    "description": "Indulge in unparalleled luxury in this spectacular penthouse offering panoramic water views and resort-style amenities. The sophisticated interior features marble finishes, custom millwork, and a gourmet kitchen that opens to expansive terraces perfect for entertaining against the backdrop of Miami's stunning skyline.",
+    "amenities": [
+      "Panoramic Water Views",
+      "Private Terraces",
+      "Marble Finishes",
+      "Gourmet Kitchen",
+      "Wine Cellar",
+      "Private Elevator",
+      "Concierge Service",
+      "Pool & Spa"
+    ],
+    "yearBuilt": 2020,
+    "listingDate": "2024-01-10T14:15:00Z"
+  },
+  {
+    "id": "4",
+    "title": "Contemporary Desert Retreat",
+    "price": 875000,
+    "propertyType": "House",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFeet": 2000,
+    "address": {
+      "street": "321 Desert Vista Way",
+      "city": "Scottsdale",
+      "state": "AZ",
+      "zipCode": "85259",
+      "full": "321 Desert Vista Way, Scottsdale, AZ 85259"
+    },
+    "coordinates": {
+      "lat": 33.4942,
+      "lng": -111.9261
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80",
+      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=800&q=80",
+      "https://images.unsplash.com/photo-1600585152220-90363fe7e115?w=800&q=80"
+    ],
+    "description": "Embrace the serenity of desert living in this striking contemporary home designed to blur the lines between indoor and outdoor spaces. Clean lines, natural materials, and floor-to-ceiling glass create a harmonious retreat with stunning mountain views and a resort-style backyard oasis.",
+    "amenities": [
+      "Mountain Views",
+      "Floor-to-Ceiling Glass",
+      "Resort-Style Pool",
+      "Outdoor Kitchen",
+      "Desert Landscaping",
+      "Smart Home Features",
+      "Three-car Garage",
+      "Solar Panels"
+    ],
+    "yearBuilt": 2019,
+    "listingDate": "2024-01-08T16:45:00Z"
+  },
+  {
+    "id": "5",
+    "title": "Cozy Craftsman Bungalow",
+    "price": 485000,
+    "propertyType": "House",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "squareFeet": 1100,
+    "address": {
+      "street": "654 Maple Street",
+      "city": "Austin",
+      "state": "TX",
+      "zipCode": "78704",
+      "full": "654 Maple Street, Austin, TX 78704"
+    },
+    "coordinates": {
+      "lat": 30.2672,
+      "lng": -97.7431
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1572120360610-d971b9d7767c?w=800&q=80",
+      "https://images.unsplash.com/photo-1600489000022-c2086d79f9d4?w=800&q=80",
+      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=800&q=80",
+      "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=800&q=80"
+    ],
+    "description": "Discover the charm of this lovingly maintained Craftsman bungalow in one of Austin's most desirable neighborhoods. Original built-ins, hardwood floors, and thoughtful renovations preserve the home's character while providing modern comfort. The inviting front porch and mature oak trees create the perfect setting for relaxed living.",
+    "amenities": [
+      "Original Built-ins",
+      "Hardwood Floors",
+      "Front Porch",
+      "Mature Trees",
+      "Updated Kitchen",
+      "Clawfoot Tub",
+      "Fenced Yard",
+      "Detached Studio"
+    ],
+    "yearBuilt": 1925,
+    "listingDate": "2024-01-05T11:20:00Z"
+  }
+]
